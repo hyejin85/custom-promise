@@ -1,0 +1,12 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "A custom promise by Hyejin",
+  "main": "index.js",
+  "scripts": {},
+  "author": {
+    "name": "Hyejin Lee",
+    "email": "hyejin.lee0805@gmail.com",
+    "url": "https://github.com/hyejin85"
+  }
+}
