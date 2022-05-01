@@ -1,4 +1,4 @@
-const MyPromise = require('./Promise');
+import MyPromise from './Promise.js';
 
 const p1 = MyPromise.resolve(3);
 const p2 = 1337;

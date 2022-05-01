@@ -224,4 +224,4 @@ class MyPromise {
   }
 }
 
-module.exports = MyPromise;
+export default MyPromise;
