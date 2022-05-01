@@ -1,5 +1,5 @@
 {
-  "name": "promise",
+  "name": "custom-promise",
   "version": "1.0.0",
   "description": "A custom promise by Hyejin",
   "main": "index.js",
@@ -7,6 +7,6 @@
   "author": {
     "name": "Hyejin Lee",
     "email": "hyejin.lee0805@gmail.com",
-    "url": "https://github.com/hyejin85"
+    "url": "https://github.com/hyejin85/custom-promise"
   }
 }
